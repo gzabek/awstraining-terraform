@@ -1,0 +1,5 @@
+/.idea/
+/aws-infrastructure/terraform/common/general/bucket/.terraform.lock.hcl
+/aws-infrastructure/terraform/common/general/bucket/terraform.tfstate
+/aws-infrastructure/terraform/common/general/bucket/terraform.tfstate.backup
+/aws-infrastructure/terraform/common/general/bucket/.terraform/
